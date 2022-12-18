@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sooin)](https://github.com/shin-sooin/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sooin)](https://github.com/shin-sooin/github-readme-stats)
+ -->
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-sooin)](https://github.com/shin-sooin/github-readme-stats)
+
+<img src="https://img.shields.io/badge/3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <!--
 **shin-sooin/shin-sooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
