@@ -2,10 +2,12 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sooin)](https://github.com/shin-sooin/github-readme-stats)
  -->
- 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Python&logoColor=white"/>
+</br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-sooin)](https://github.com/shin-sooin/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </t>  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **shin-sooin/shin-sooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
